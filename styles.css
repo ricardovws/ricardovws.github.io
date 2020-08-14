@@ -1,0 +1,6 @@
+body {
+    background-image: url("background_woods.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
